@@ -62,3 +62,21 @@ Thumbs.db
 
 # Git specific
 .git/
+
+# Node.js ve React Native bağımlılıkları
+node_modules/
+
+# React Native çalışma dosyaları
+.expo/
+.expo-shared/
+
+# IDE ve Editör dosyaları
+.vscode/
+.idea/
+
+# Log dosyaları
+*.log
+
+# Çeşitli sistem dosyaları
+.DS_Store
+Thumbs.db
